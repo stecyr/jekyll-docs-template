@@ -30,7 +30,7 @@ vertical-align: inherit;
 border : 1px solid  #646060;
 border-color: #646060;
 } 
-table td, th {
+table th {
 background-color: #aaa;
 } 
 #header {
