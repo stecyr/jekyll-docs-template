@@ -6,5 +6,7 @@ date: 2013-06-06 08:55:36
 order: 5
 ---
 
-Glossaire
+h1 Glossaire
 
+|_.IGO|<b>I</b>nfrastructure <b>G</b>éomatique <b>O</b>uverte|
+|_.LL| Logiciel Libre ou Luc Lessard|
