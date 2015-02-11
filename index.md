@@ -1,22 +1,20 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "Documentation IGO"
 ---
 
-<p class=lead>Tired of long and unmanageable single-page READMEs deployed as your project's documentation? This minimal <a href=http://jekyllrb.com/>Jekyll</a> project template is specifically intended for simple static documentation sites deployable on GitHub Pages.</p>
+Projet I.G.O. du Gouvernement du Québec impliquant les partenaires du Ministère de la Sécurité publique (MSP), l'Institut de la Santé publique (INSPQ), le Ministère de la Culture et des Communications (MCC), La Financière Agricole (FADQ) et le Ministère des Transports (MTQ).
 
-The template follows a very simple convention of defining categories that correspond to sections in the navigation. Here are the default ones (they are listed in the `_config.yml`):
+Voici un lien vers le navigateur de base du projet.
 
-- `doc` - Documentation
-- `ref` - Reference
-- `tut` - Tutorial
-- `dev` - Developers
-- `post` - Posts
+http://rc.geomsp.qc/gouvouvert/
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+- Ce lien représente le site des données ouvertes de l'environnement de pré-production utilisant l'infrastructure géomatique ouverte I.G.O.
 
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
+Voici un url pour acéder à un IGO-Service WMS avec les couches de la BDTQ (MSP, 2006) disponibles uniquement dans l'intranet du gouvernement du Québec : 
 
-Read more [Usage]({{ site.baseurl }}{% post_url 2013-06-06-usage %}) page for more details or view the project [on GitHub](https://github.com/bruth/jekyll-docs-template/)
+http://rc.geomsp.qc/cgi-wms/bdtq.fcgi?
+
+Pour accéder à un WMS, vous pouvez utiliser différents outils, tels que QGIS, Gaia ou ArcGIS.
+
+Sous-projets: Espace public du projet Infrastructure de Géomatique Ouverte (IGO)

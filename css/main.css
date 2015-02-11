@@ -27,11 +27,12 @@ table {
 table td, th {
 display: table-cell;
 vertical-align: inherit;
-border : 1px solid #aaa;
-border-color: gray;
-background-color green;
+border : 1px solid  #646060;
+border-color: #646060;
 } 
-
+table th {
+background-color: #F7F7F7;
+} 
 #header {
     border-bottom: 1px solid #eee;
     margin-bottom: 20px;

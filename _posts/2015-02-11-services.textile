@@ -3,14 +3,14 @@ layout: page
 title: "Services"
 category: doc
 date: 2013-06-06 08:55:36
-order: 1
+order: 2
 ---
 
 h2. Pour chaque service développé
 
-|_.Alias|text|
-|_.Condition utilisation|Utilisation seulement|
-|_.Raison etre|Comportement|
-|_.Pré-Post condition|test|
-|_.Titre|ainsi soit il|
+|_<.Alias|text|
+|_<.Condition utilisation|Utilisation seulement|
+|_<.Raison etre|Comportement|
+|_<.Pré-Post condition|test|
+|_<.Titre|ainsi soit il|
 

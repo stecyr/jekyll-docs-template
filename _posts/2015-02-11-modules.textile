@@ -1,9 +1,9 @@
---
+---
 layout: page
 title: "Modules"
-category: dev
+category: doc
 date: 2015-02-02
-order: 1
+order: 6
 ---
 
 |a|b|c|
