@@ -18,10 +18,3 @@ http://rc.geomsp.qc/cgi-wms/bdtq.fcgi?
 Pour accéder à un WMS, vous pouvez utiliser différents outils, tels que QGIS, Gaia ou ArcGIS.
 
 Sous-projets: Espace public du projet Infrastructure de Géomatique Ouverte (IGO)
-
-
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
-
-Read more [Usage]({{ site.baseurl }}{% post_url 2013-06-06-usage %}) page for more details or view the project [on GitHub](https://github.com/bruth/jekyll-docs-template/)
