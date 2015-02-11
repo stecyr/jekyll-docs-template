@@ -29,9 +29,10 @@ display: table-cell;
 vertical-align: inherit;
 border : 1px solid #aaa;
 border-color: gray;
-background-color: green;
 } 
-
+table td, th {
+background-color: gray;
+} 
 #header {
     border-bottom: 1px solid #eee;
     margin-bottom: 20px;
