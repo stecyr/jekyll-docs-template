@@ -29,10 +29,8 @@ display: table-cell;
 vertical-align: inherit;
 border : 1px solid #aaa;
 border-color: gray;
-}
-table th {
 background-color green;
-}
+} 
 
 #header {
     border-bottom: 1px solid #eee;
