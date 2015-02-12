@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Changelog"
+title: "Itinériaire"
 category: ser
 order: 1
 ---
