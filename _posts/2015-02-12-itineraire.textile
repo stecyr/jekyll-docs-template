@@ -3,8 +3,7 @@ layout: page
 title: "Itinériaire"
 category: ser
 order: 1
----
-content:
+
 !https://gitlab.forge.gouv.qc.ca/geomatique/itineraire/wikis/132.png!
 
 h2. Bienvenu sur la page du service de calcul d'itinéraire du gouvernement du Québec.
@@ -21,7 +20,6 @@ Le service d'itinéraire du gouvernement du québec repose sur les données de l
 
 Pour une démonstration en ligne du produit : http://spssogl97d.sso.msp.gouv.qc.ca/OSRM-Web/
 
-content2:
 
 h2.Comment utiliser le service
  
