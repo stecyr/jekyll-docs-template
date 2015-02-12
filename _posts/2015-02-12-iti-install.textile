@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Installation"
+category: iti
+order: 2
+---
+
 Pour l'installation du moteur d'OSRM voir christophe
 
 TODO 
