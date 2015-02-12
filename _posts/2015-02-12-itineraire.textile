@@ -26,9 +26,9 @@ Pour une démonstration en ligne du produit : http://spssogl97d.sso.msp.gouv.qc.
  
 
 
-Référence du "Server API" d'OSRM "OSRM":https://github.com/DennisOSRM/Project-OSRM/wiki/Server-api.
+Référence du "Server API" d'"OSRM":https://github.com/DennisOSRM/Project-OSRM/wiki/Server-api.
 
-**1. viaroute (Calcul du chemin le plus court entre deux coordonnées et d'une liste ordonnée de point intermédiaire.)**
+# viaroute (Calcul du chemin le plus court entre deux coordonnées et d'une liste ordonnée de point intermédiaire.)**
 > spssogl97d.sso.msp.gouv.qc.ca/Services/itineraire.php?graph=voirute&loc=46.548358,-71.099907&loc=46.543012,-71.070463&loc=46.537196,-71.080256&instructions=true&compression=false
 
 Paramêtres:
