@@ -8,4 +8,8 @@ layout: default
     </h2>
 </div>
 
-{{ content }}
+{% for section in page.sections %}
+<div>{{ section | textilize }}</div>
+{% endfor %}
+
+ 
