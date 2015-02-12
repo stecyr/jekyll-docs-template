@@ -14,11 +14,12 @@ codeurl: 'https://github.com/bruth/jekyll-docs-template'
 # Default categories (in order) to appear in the navigation
 sections: [
     ['doc', 'Documentation'],
+    ['ser', 'Services']
     ['tut', 'Tutorial'],
     ['ref', 'Reference'],
     ['dev', 'Developers'],
     ['post', 'Posts'],
-    ['ser', 'Services']
+   
 ] 
 
 
