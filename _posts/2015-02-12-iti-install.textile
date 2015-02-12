@@ -1,0 +1,6 @@
+Pour l'installation du moteur d'OSRM voir christophe
+
+TODO 
+prérequis postgresql....
+1- generer_fichier_from_sql.
+2- 
