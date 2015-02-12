@@ -2,8 +2,8 @@
 layout: page
 title: "Itinériaire"
 category: doc
-subcategory: ser
 order: 1
+---
 
 !https://gitlab.forge.gouv.qc.ca/geomatique/itineraire/wikis/132.png!
 
