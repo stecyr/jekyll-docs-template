@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Changelog"
+category: iti
+order: 1
+---
 Comment utiliser le service
 
 Référence du “Server API” d’"OSRM":https://github.com/DennisOSRM/Project-OSRM/wiki/Server-api.
