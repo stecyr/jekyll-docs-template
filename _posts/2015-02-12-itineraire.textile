@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: itineraire
 title: "Itinériaire"
 category: ser
 order: 1
