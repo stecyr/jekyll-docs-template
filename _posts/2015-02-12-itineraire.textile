@@ -10,7 +10,6 @@ h2. Bienvenu sur la page du service de calcul d'itinéraire du gouvernement du Q
 !https://gitlab.forge.gouv.qc.ca/geomatique/itineraire/wikis/132.png!
 
 Le service d'itinéraire du gouvernement du québec repose sur les données de la bgr (adresse québec) et le moteur "OSRM":https://github.com/DennisOSRM/Project-OSRM
-* [Installation](installation)
 * [Démarrer OSRM](demarrer)
 * [Généralités sur OSRM](OSRM)
 * Contact
