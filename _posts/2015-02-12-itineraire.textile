@@ -1,0 +1,16 @@
+---
+layout: page
+title: "Changelog"
+category: ser
+order: 1
+---
+
+h2. Projet de calcul d'itinéraire
+
+Pour consulter toute l'information relative au projet, vous êtes invité a consulter le Wiki a l'adresse 
+
+https://gitlab.forge.gouv.qc.ca/geomatique/itineraire/wikis/home
+
+Vous pouvez également avoir un aperçu du produit a l'adresse
+
+http://spssogl97d.sso.msp.gouv.qc.ca/OSRM-Web/
