@@ -5,9 +5,9 @@ category: ser
 order: 1
 ---
 
-!https://gitlab.forge.gouv.qc.ca/geomatique/itineraire/wikis/132.png!
-
 h2. Bienvenu sur la page du service de calcul d'itinéraire du gouvernement du Québec.
+
+!https://gitlab.forge.gouv.qc.ca/geomatique/itineraire/wikis/132.png!
 
 Le service d'itinéraire du gouvernement du québec repose sur les données de la bgr (adresse québec) et le moteur "OSRM":https://github.com/DennisOSRM/Project-OSRM
 
