@@ -7,7 +7,9 @@
         
         {% for page in site.categories[attr] %}
             {% if forloop.first %}
-                <li class=nav-header>{{ label }}</li>
+                {% if parent == '' %}
+                    <li class=nav-header>{{ label }}</li>
+                {% endif %}    
             {% endif %}
             <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
                  {{parent}}
