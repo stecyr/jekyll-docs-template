@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Itinériaire"
-category: doc
+category: ser
 order: 1
 ---
 
