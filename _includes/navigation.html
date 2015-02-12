@@ -9,10 +9,9 @@
                 <li class=nav-header>{{ label }}</li>
             {% endif %}
             <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-                <li>a</li>
-                <li>b</li>
-                <li>c</li>
-                
+                 {% if for label == attr %}
+                    <li class=nav-header>{{ label }}</li>
+                {% endif %}     
             </li>
         {% endfor %}
     {% endfor %}
