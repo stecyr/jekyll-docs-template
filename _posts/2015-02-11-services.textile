@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: section
 title: "Services"
 category: doc
 date: 2013-06-06 08:55:36
