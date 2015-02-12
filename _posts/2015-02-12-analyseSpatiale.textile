@@ -8,12 +8,12 @@ order: 2
 Modèle proposé par Marie-Claude
 
 
-|_<.Alias| Insérer le texte ici.|
-|_<.Condition utilisation| Insérer le texte ici.|
-|_<.Raison etre| Insérer le texte ici. |
-|_<.Précondition et paramètres| Insérer le texte ici. |
-|_<.Postconditions| Insérer le texte ici.|
-|_<.Règles d'intégrité| Insérer le texte ici.|
-|_<.Dynamique du service| Insérer le texte ici.|
-|_<.Perspective locale| Insérer le texte ici.|
-|_<.Liste des services et composantes| Insérer le texte ici.|
+|_<. Alias| Insérer le texte ici.|
+|_<. Condition utilisation| Insérer le texte ici.|
+|_<. Raison etre| Insérer le texte ici. |
+|_<. Précondition et paramètres| Insérer le texte ici. |
+|_<. Postconditions| Insérer le texte ici.|
+|_<. Règles d'intégrité| Insérer le texte ici.|
+|_<. Dynamique du service| Insérer le texte ici.|
+|_<. Perspective locale| Insérer le texte ici.|
+|_<. Liste des services et composantes| Insérer le texte ici.|
