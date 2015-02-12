@@ -6,6 +6,6 @@ date: 2013-06-06 08:55:36
 order: 2
 ---
 
-h2. Un services est théoriquement indépendant du navigateur. Un service fait parti de l'IGO mais peux être consommé par le navigateur d'IGO ou tout autre produit. 
+Un services est théoriquement indépendant du navigateur. Un service fait parti de l'IGO mais peux être consommé par le navigateur d'IGO ou tout autre produit. 
 
 
