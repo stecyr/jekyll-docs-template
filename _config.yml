@@ -19,8 +19,7 @@ sections: [
     ['tut', 'Tutorial'],
     ['ref', 'Reference'],
     ['dev', 'Developers'],
-    ['post', 'Posts'],
-    ['iti', 'itin'],
+    ['post', 'Posts']
 ] 
 
 
