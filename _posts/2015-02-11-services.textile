@@ -6,11 +6,6 @@ date: 2013-06-06 08:55:36
 order: 2
 ---
 
-h2. Pour asdf chaque service développé
+h2. Un services est théoriquement indépendant du navigateur. Un service fait parti de l'IGO mais peux être consommé par le navigateur d'IGO ou tout autre produit. 
 
-|_<.Alias|text|
-|_<.Condition utilisation|Utilisation seulement|
-|_<.Raison etre|Comportement|
-|_<.Pré-Post condition|test|
-|_<.Titre|ainsi soit il|
 
