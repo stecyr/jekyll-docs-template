@@ -11,7 +11,7 @@
             {% endif %}
             <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
                  parent
-                 {% if label = parent %}
+                 {% if label == parent %}
                     <li class=nav-header>{{ label }}</li>
                 {% endif %}     
             </li>
