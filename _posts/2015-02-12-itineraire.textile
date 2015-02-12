@@ -9,7 +9,7 @@ order: 1
 
 h2. Bienvenu sur la page du service de calcul d'itinéraire du gouvernement du Québec.
 
-Le service d'itinéraire du gouvernement du québec repose sur les données de la bgr (adresse québec) et le moteur [OSRM](https://github.com/DennisOSRM/Project-OSRM).
+Le service d'itinéraire du gouvernement du québec repose sur les données de la bgr (adresse québec) et le moteur "OSRM":https://github.com/DennisOSRM/Project-OSRM
 
 * [Comment utiliser le service d'itinéraire](Utilisation).
 * [Installation](installation)
