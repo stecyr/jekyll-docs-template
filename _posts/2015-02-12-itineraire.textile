@@ -5,7 +5,7 @@ category: ser
 order: 1
 ---
  
-https://gitlab.forge.gouv.qc.ca/geomatique/itineraire/wikis/132.png
+!https://gitlab.forge.gouv.qc.ca/geomatique/itineraire/wikis/132.png!
 
 h2. Bienvenu sur la page du service de calcul d'itinéraire du gouvernement du Québec.
 
