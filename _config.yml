@@ -18,8 +18,9 @@ sections: [
     ['ref', 'Reference',''],
     ['dev', 'Developers',''],
     ['post', 'Posts',''],
-    ['ser', 'Services','doc']
-]
+    ['doc', 'Services','ser']
+] 
+
 
 # Keep as an empty string if served up at the root. If served up at a specific
 # path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
