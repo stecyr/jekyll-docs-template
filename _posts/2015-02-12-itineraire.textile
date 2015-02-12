@@ -4,13 +4,18 @@ title: "Itinériaire"
 category: ser
 order: 1
 ---
+ 
+https://gitlab.forge.gouv.qc.ca/geomatique/itineraire/wikis/132.png
 
-h2. Projet de calcul d'itinéraire
+h2. Bienvenu sur la page du service de calcul d'itinéraire du gouvernement du Québec.
 
-Pour consulter toute l'information relative au projet, vous êtes invité a consulter le Wiki a l'adresse 
+Le service d'itinéraire du gouvernement du québec repose sur les données de la bgr (adresse québec) et le moteur [OSRM](https://github.com/DennisOSRM/Project-OSRM).
 
-https://gitlab.forge.gouv.qc.ca/geomatique/itineraire/wikis/home
+* [Comment utiliser le service d'itinéraire](Utilisation).
+* [Installation](installation)
+* [Démarrer OSRM](demarrer)
+* [Généralités sur OSRM](OSRM)
+* Contact
+* [Mailing list](Mailing-list)
 
-Vous pouvez également avoir un aperçu du produit a l'adresse
-
-http://spssogl97d.sso.msp.gouv.qc.ca/OSRM-Web/
+Pour une démonstration en ligne du produit : http://spssogl97d.sso.msp.gouv.qc.ca/OSRM-Web/
